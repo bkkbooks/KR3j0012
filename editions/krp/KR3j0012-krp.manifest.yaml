@@ -1,0 +1,136 @@
+canonical_identifier: bkk:krp/KR3j0012/krp/v1
+canonical_location: https://kanripo.org/bkk/KR3j0012/krp/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金樓子
+  date: '2015-08-24 23:19:32.510517'
+  source:
+    repository: kanripo
+    path: KR3j0012
+  base_edition: WYG
+  edition:
+    short: krp
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR3j0012_000-krp.yaml, hash: 'sha256:5df14d20f4f0ef66add238b14555db95a2ec991099338f1b89136786b8e96b28'}
+  - {seq: 1, filename: KR3j0012_001-krp.yaml, hash: 'sha256:a7f5b7b035d6b561ab5142dfdfc8aa3c51d06f053a5143ea50016535715e25bc'}
+  - {seq: 2, filename: KR3j0012_002-krp.yaml, hash: 'sha256:9cf3b58512a8bb6c9fb24b5be5ad7c23df3e3ac75e1080e62144b69556d90360'}
+  - {seq: 3, filename: KR3j0012_003-krp.yaml, hash: 'sha256:4b18897d560372ac8117ddb9837bf77066193250bb3e3860cb8821f5c5a79fc9'}
+  - {seq: 4, filename: KR3j0012_004-krp.yaml, hash: 'sha256:f6a2668d46ecafb3e97ee01a373a891f4b3cae896109f05d8db27c768d336fd9'}
+  - {seq: 5, filename: KR3j0012_005-krp.yaml, hash: 'sha256:078785a2a3916750106a8a77f4a06067fbc696bb92191cab9496b968cbe642a8'}
+  - {seq: 6, filename: KR3j0012_006-krp.yaml, hash: 'sha256:7a92751495c8c3f880335fee3fbc7f4fb4ab8d0b9e73960d6c509e6d16c825e0'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3j0012_000-krp.markers.yaml, hash: 'sha256:7f86a66d363d9e45d241387ddab69819aa336cb5f4b8d54d140f89c69552a797'}
+  - {seq: 1, role: markers, filename: assets/KR3j0012_001-krp.markers.yaml, hash: 'sha256:f01e3c308a1a608dbb900c0c5552baa6d207ad8e41badcde69b5444738e968ca'}
+  - {seq: 2, role: markers, filename: assets/KR3j0012_002-krp.markers.yaml, hash: 'sha256:f2ca1ae33b6fe1cc2a887d06f5e5db8a1191d6e75aa92fcd464e5ec508f7df52'}
+  - {seq: 3, role: markers, filename: assets/KR3j0012_003-krp.markers.yaml, hash: 'sha256:3aa569bdd3eebecb2df101b7f549fa0bf0679e5cae10a3e3572acbcf651d55ce'}
+  - {seq: 4, role: markers, filename: assets/KR3j0012_004-krp.markers.yaml, hash: 'sha256:97aa5636fa08922164ea85d15837bc3bc88015b0833c3aecc139d65641895964'}
+  - {seq: 5, role: markers, filename: assets/KR3j0012_005-krp.markers.yaml, hash: 'sha256:1a44b6ca8956f64debab75af02507cdd965a91d61932e13b92980cd39ac5e92c'}
+  - {seq: 6, role: markers, filename: assets/KR3j0012_006-krp.markers.yaml, hash: 'sha256:8a65836fa062c6bdf4856437dd8545ccf2d3316c94d209a476f952f9f1be940e'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3j0012_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 575
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3j0012_WYG_000-4a
+    span:
+    - body
+    - 575
+    - 1147
+  label: 原序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3j0012_WYG_000-6a
+    span:
+    - body
+    - 1147
+    - 1256
+  label: 目録
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3j0012_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 9628
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3j0012_WYG_001-33a
+    span:
+    - body
+    - 9628
+    - 9788
+  label: 卷一考證
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3j0012_WYG_002-1a
+    span:
+    - body
+    - 0
+    - 5863
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3j0012_WYG_003-1a
+    span:
+    - body
+    - 0
+    - 9231
+  label: 卷三
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3j0012_WYG_004-1a
+    span:
+    - body
+    - 0
+    - 10769
+  label: 卷四
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3j0012_WYG_005-1a
+    span:
+    - body
+    - 0
+    - 8282
+  label: 卷五
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3j0012_WYG_006-1a
+    span:
+    - body
+    - 0
+    - 7505
+  label: 卷六
+  type: section
+  level: 1
+hash: sha256:bd2e5399301e620d02aef909219bbaa06eb0cb45498dffdbc31fd5eb11c379c3
